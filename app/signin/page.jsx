@@ -6,7 +6,7 @@ function SignInPage() {
 	async function Redirect() {
 		setTimeout(() => {
 			router.replace("/");
-		}, 5000);
+		}, 3000);
 	}
 	return (
 		<div>
